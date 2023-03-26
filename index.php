@@ -18,7 +18,7 @@ echo '<!DOCTYPE html>
 
 <p>Click <a href="https://34.122.58.72/signupTwo.php">here</a> to sign up</p>
 
-<p>Other wise, try logging in <a href="https://34.122.58.72/signIn.php">here</a></p>
+<p>Other wise, try logging in <a href="https://34.122.58.72/signin.php">here</a></p>
 </body>
 </html>';
 
